@@ -1,5 +1,22 @@
 %HW4
 %% 
+%GB comments
+1a 100
+1b 100
+1c 100
+1d 100
+2a 100
+2b. 70 The output avi only contains the nuclear label. 
+3a. 100
+3b 100
+3c 100
+3d 100
+3e 100
+4a. 100
+4b. 100
+ Overall = 98
+
+
 % Problem 1. 
 
 % 1. Write a function to generate an 8-bit image of size 1024x1024 with a random value 
